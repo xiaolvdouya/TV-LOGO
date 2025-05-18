@@ -1,25 +1,33 @@
-# 【中央电视台】台标PNG文件
-|频道名|台标图片|频道名|台标图片|
-|:---|:---:|:---|:---:|
-|CCTV1|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV1.png">|CCTV2|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV2.png">|
-|CCTV3|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV3.png">|CCTV3D|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV3D.png">|
-|CCTV4|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV4.png">|CCTV4k|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV4k.png">|
-|CCTV4美洲|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV4%E7%BE%8E%E6%B4%B2.png">|CCTV4欧洲|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV4欧洲.png">|
-|CCTV5|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV5.png">|CCTV5+|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV5+.png">|
-|CCTV6|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV6.png">|CCTV7|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV7.png">|
-|CCTV8|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV8.png">|CCTV8K|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV8k.png">|
-|CCTV9|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV9.png">|CCTV10|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV10.png">|
-|CCTV11|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV11.png">|CCTV12|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV12.png">|
-|CCTV13|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV13.png">|CCTV14|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV1.png">|
-|CCTV15|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV15.png">|CCTV16|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV16.png">|
-|CCTV17|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV17.png">|CCTVnews|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTVnews.png">|
-|CCTV兵器科技|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV兵器科技.png">|CCTV电视指南|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV电视指南.png">|
-|CCTV发现之旅|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV发现之旅.png">|CCTV风云剧场|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV风云剧场.png">|
-|CCTV风云音乐|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV风云音乐.png">|CCTV风云足球|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV风云足球.png">|
-|CCTV高尔夫网球|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV高尔夫%20网球.png">|CCTV怀旧剧场|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV怀旧剧场.png">|
-|CCTV老故事|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV老故事.png">|CCTV女性时尚|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV女性时尚.png">|
-|CCTV世界地理|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV世界地理.png">|CCTV卫生健康|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV卫生健康.png">|
-|CCTV文化精品|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV文化精品.png">|CCTV12|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV12.png">|
-|CCTV现代女性|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV现代女性.png">|CCTV央视台球|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV央视台球.png">|
-|CCTV娱乐|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV娱乐.png">|CCTV中学生|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/CCTV中学生.png">|
-|央广购物|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/央广购物.png">|中视购物|<img src="https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%A4%AE%E8%A7%86/中视购物.png">|
+### TVlogo
+> 所有资源来自网络，收集整理只为学习交流，未经版权方同意不得商用，私自商用而引发的问题本人概不负责，谢谢理解！如本仓库中部分内容存在侵权行为，欢迎留言联系我删除。
+> 
+【[CCTV](./md/01.md)】  【[CGTN=中国教育电视台=新华社=中央新影](./md/02.md)】
+
+【[全国卫视](./md/03.md)】  【[港澳地区](./md/04.md)】  【[台湾地区一](./md/05.md)】  【[台湾地区二](./md/06.md)】  【[台湾地区三](./md/07.md)】
+
+【[数字频道](./md/10.md)】  【[DOX系列](./md/11.md)】  【[iHOT系列](./md/12.md)】  【[NewTV系列](./md/13.md)】  【[CIBN系列](./md/14.md)】
+
+【[山东](./md/20.md)】  【[江苏](./md/21.md)】  【[安徽](./md/22.md)】  【[浙江](./md/23.md)】  【[福建](./md/24.md)】  【[上海](./md/25.md)】
+
+【[广东](./md/26.md)】  【[广西](./md/27.md)】  【[海南](./md/28.md)】
+
+【[湖南](./md/29.md)】  【[湖北](./md/30.md)】  【[河南](./md/31.md)】  【[江西](./md/32.md)】
+
+【[北京](./md/33.md)】  【[天津](./md/34.md)】  【[河北](./md/35.md)】  【[山西](./md/36.md)】  【[内蒙古](./md/37.md)】
+
+【[宁夏](./md/38.md)】  【[新疆](./md/39.md)】  【[青海](./md/40.md)】  【[陕西](./md/41.md)】  【[甘肃](./md/42.md)】
+
+【[四川](./md/43.md)】  【[云南](./md/44.md)】  【[贵州](./md/45.md)】  【[西藏](./md/46.md)】  【[重庆](./md/47.md)】
+
+【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
+
+### 2023-03-26 更新
+> 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
+
+<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xindm.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HOY1.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png">
+
+### 2023-03-20 更新
+> 【[辽宁](./md/48.md)】  【[福建](./md/24.md)】  【[山东](./md/20.md)】  【[天津](./md/34.md)】
+> 按照新的频道呼号核对实际台标做了名称调整
+
+<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TaiwanPlus.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian9.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/bjtjcai.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei7.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mnews.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/inbm.png">
