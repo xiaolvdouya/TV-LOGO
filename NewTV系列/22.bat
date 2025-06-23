@@ -1,0 +1,1 @@
+dir *png* /b>提取文本.txt
