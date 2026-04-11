@@ -16,7 +16,7 @@ QTV6.png
 临沂.png
 临沂临沭.png
 临沂兰山.png
-临沂兰陵 (2).png
+临沂兰陵.png
 临沂平邑.png
 临沂沂南.png
 临沂沂水.png
@@ -87,11 +87,11 @@ QTV6.png
 日照公共.png
 日照岚山.png
 日照新闻综合.png
-日照科.png
+日照科教.png
 日照莒县.png
 枣庄.png
 枣庄台儿庄.png
-枣庄台儿庄.新闻综合.png
+枣庄台儿庄新闻综合.png
 枣庄山亭.png
 枣庄山亭2.png
 枣庄峄城.png
@@ -111,7 +111,6 @@ QTV6.png
 泰安宁阳一套.png
 泰安宁阳二套.png
 泰安宁阳综合.png
-泰安岱岳 (2).png
 泰安岱岳.png
 泰安岱岳2.png
 泰安岱岳3.png
@@ -132,6 +131,7 @@ QTV6.png
 济南历城.png
 济南历城2.png
 济南商河.png
+济南图文.png
 济南娱乐.png
 济南少儿.png
 济南市中.png
@@ -147,6 +147,7 @@ QTV6.png
 济南济阳.png
 济南生活.png
 济南科教.png
+济南移动电视.png
 济南章丘.png
 济南章丘2.png
 济南都市.png
@@ -155,7 +156,7 @@ QTV6.png
 济宁.png
 济宁任城.png
 济宁任城2.png
-济宁兖州 (2).png
+济宁兖州.png
 济宁公共.png
 济宁嘉祥.png
 济宁微山.png
@@ -263,6 +264,9 @@ QTV6.png
 菏泽牡丹.png
 菏泽郓城.png
 菏泽鄄城.png
+青岛1.png
+青岛2.png
+青岛3.png
 青岛即墨.png
 青岛城阳.png
 青岛崂山.png
