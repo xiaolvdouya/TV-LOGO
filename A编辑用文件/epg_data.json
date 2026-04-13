@@ -4361,6 +4361,11 @@
             "name": "唐人卫视"
         },
         {
+            "epgid": "八度空间",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/八度空间.png",
+            "name": "八度空间"
+        },
+        {
             "epgid": "新天地民俗台",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/新天地民俗台.png",
             "name": "新天地民俗台"
