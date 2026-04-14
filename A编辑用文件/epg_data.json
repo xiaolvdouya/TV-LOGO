@@ -28,7 +28,7 @@
         {
             "epgid": "CCTV4k",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/CCTV4k.png",
-            "name": "CCTV4k,CCTV-4k,CCTV4K-SDR,CCTV4K-10M"
+            "name": "CCTV4k,CCTV-4k,CCTV4K-SDR,CCTV4K-10M,CCTV-4K超高清"
         },
         {
             "epgid": "CCTV4美洲",
@@ -68,7 +68,7 @@
         {
             "epgid": "CCTV8k",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/CCTV8k.png",
-            "name": "CCTV-8K,CCTV8K,CCTV8k,CCTV-8k,CCTV8K-36M,CCTV8K-120M"
+            "name": "CCTV-8K,CCTV8K,CCTV8k,CCTV-8k,CCTV8K-36M,CCTV8K-120M,CCTV-8K超高清"
         },
         {
             "epgid": "CCTV9",
@@ -2223,7 +2223,7 @@
         {
             "epgid": "1905电影",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/1905电影.png",
-            "name": "1905电影"
+            "name": "1905电影,1905电影网"
         },
         {
             "epgid": "3D试验频道",
@@ -3433,7 +3433,7 @@
         {
             "epgid": "momo亲子台",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/momo亲子台.png",
-            "name": "momo亲子台"
+            "name": "momo亲子台,MOMO親子,MOMO親子台"
         },
         {
             "epgid": "momo综合台",
@@ -3676,6 +3676,11 @@
             "name": "中视菁采台"
         },
         {
+            "epgid": "八度空间",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/八度空间.png",
+            "name": "八度空间"
+        },
+        {
             "epgid": "八大优频道",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/八大优频道.png",
             "name": "八大优,211八大優頻道,232八大優頻道,八大优频道"
@@ -3858,7 +3863,7 @@
         {
             "epgid": "台视综合台",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/台视综合台.png",
-            "name": "台视综合台,台视综合"
+            "name": "台视综合台,台视综合,臺視綜合台,臺視綜合"
         },
         {
             "epgid": "台视财经HD",
@@ -3978,7 +3983,7 @@
         {
             "epgid": "民视影剧台",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/民视影剧台.png",
-            "name": "民视影剧台,民视影剧"
+            "name": "民视影剧台,民视影剧,民視影劇,民視影劇台"
         },
         {
             "epgid": "民视新闻台",
@@ -3998,7 +4003,7 @@
         {
             "epgid": "民视综艺台",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/民视综艺台.png",
-            "name": "民视综艺台,民视综艺"
+            "name": "民视综艺台,民视综艺,民視綜藝,民視綜藝台"
         },
         {
             "epgid": "民视综艺台2",
@@ -4053,47 +4058,47 @@
         {
             "epgid": "龙华偶像",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华偶像.png",
-            "name": "龙华偶像"
+            "name": "龙华偶像,龍華偶像"
         },
         {
             "epgid": "龙华动画",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华动画.png",
-            "name": "龙华动画"
+            "name": "龙华动画,龍華動畫"
         },
         {
             "epgid": "龙华卡通",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华卡通.png",
-            "name": "龙华卡通"
+            "name": "龙华卡通,龍華卡通"
         },
         {
             "epgid": "龙华影剧",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华影剧.png",
-            "name": "龙华影剧"
+            "name": "龙华影剧,龍華影劇"
         },
         {
             "epgid": "龙华戏剧",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华戏剧.png",
-            "name": "龙华戏剧"
+            "name": "龙华戏剧,龍華戲劇"
         },
         {
             "epgid": "龙华日韩",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华日韩.png",
-            "name": "龙华日韩"
+            "name": "龙华日韩,龍華日韓"
         },
         {
             "epgid": "龙华洋片",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华洋片.png",
-            "name": "龙华洋片"
+            "name": "龙华洋片,龍華洋片"
         },
         {
             "epgid": "龙华电影",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华电影.png",
-            "name": "龙华电影"
+            "name": "龙华电影,龍華電影"
         },
         {
             "epgid": "龙华经典",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/龙华经典.png",
-            "name": "龙华经典"
+            "name": "龙华经典,龍華經典"
         },
         {
             "epgid": "镜新闻",
@@ -4351,19 +4356,14 @@
             "name": "幸福空间居家"
         },
         {
-            "epgid": "新唐人亚太台",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/新唐人亚太台.png",
-            "name": "新唐人亚太台"
-        },
-        {
             "epgid": "唐人卫视",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/唐人卫视.png",
             "name": "唐人卫视"
         },
         {
-            "epgid": "八度空间",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/八度空间.png",
-            "name": "八度空间"
+            "epgid": "唐人亚太台",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/新唐人亚太台.png",
+            "name": "新唐人亚太台,唐人亚太台"
         },
         {
             "epgid": "新天地民俗台",
@@ -4388,7 +4388,7 @@
         {
             "epgid": "智林体育",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/智林体育.png",
-            "name": "智林体育"
+            "name": "智林体育,智林體育"
         },
         {
             "epgid": "曼迪日本台",
@@ -4588,7 +4588,7 @@
         {
             "epgid": "金光布袋戏",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/金光布袋戏.png",
-            "name": "金光布袋戏"
+            "name": "金光布袋戏,金光布袋戲"
         },
         {
             "epgid": "霹雳台湾台",
@@ -4643,7 +4643,7 @@
         {
             "epgid": "靖天电影台",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/靖天电影台.png",
-            "name": "靖天电影台"
+            "name": "靖天电影台,靖天电影,靖天電影,靖天電影台"
         },
         {
             "epgid": "靖天综合台",
@@ -4673,7 +4673,7 @@
         {
             "epgid": "靖洋戏剧台",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/靖洋戏剧台.png",
-            "name": "靖洋戏剧台"
+            "name": "靖洋戏剧台,靖洋戏剧,靖洋戲劇台,靖洋戲劇"
         },
         {
             "epgid": "靖洋戏剧台2",
