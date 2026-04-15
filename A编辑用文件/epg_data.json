@@ -2176,6 +2176,61 @@
             "name": "河北三佳购物,河北三佳购物频道"
         },
         {
+            "epgid": "石家庄新闻综合",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/石家庄新闻综合.png",
+            "name": "石家庄新闻综合,石家庄新闻,石家庄综合"
+        },
+        {
+            "epgid": "石家庄新闻综合2",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/石家庄新闻综合2.png",
+            "name": "石家庄新闻综合2"
+        },
+        {
+            "epgid": "石家庄生活",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/石家庄生活.png",
+            "name": "石家庄生活"
+        },
+        {
+            "epgid": "石家庄都市",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/石家庄都市.png",
+            "name": "石家庄都市"
+        },
+        {
+            "epgid": "石家庄娱乐",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/石家庄娱乐.png",
+            "name": "石家庄娱乐,石家庄文化娱乐"
+        },
+        {
+            "epgid": "邯郸",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/邯郸.png",
+            "name": "邯郸新闻,邯郸新闻综合,邯郸公共,邯郸科技教育，邯郸公共频道，邯郸科教"
+        },
+        {
+            "epgid": "任丘文娱",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/任丘文娱.png",
+            "name": "任丘文娱"
+        },
+        {
+            "epgid": "任丘综合",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/任丘综合.png",
+            "name": "任丘综合"
+        },
+        {
+            "epgid": "兴隆综合",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/兴隆综合.png",
+            "name": "兴隆综合"
+        },
+        {
+            "epgid": "清河新闻综合",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/清河新闻综合.png",
+            "name": "清河新闻综合,清河-1"
+        },
+        {
+            "epgid": "清河经济综艺",
+            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/清河经济综艺.png",
+            "name": "清河经济综艺,清河-2"
+        },
+        {
             "epgid": "1905电影",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/1905电影.png",
             "name": "1905电影,1905电影网"
