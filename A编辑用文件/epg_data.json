@@ -721,51 +721,6 @@
             "name": "重温经典"
         },
         {
-            "epgid": "河北卫视",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北卫视.png",
-            "name": "河北卫视"
-        },
-        {
-            "epgid": "河北经济生活",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北经济生活.png",
-            "name": "河北经济生活,河北经济"
-        },
-        {
-            "epgid": "河北公共频道",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北公共频道.png",
-            "name": "河北公共频道,河北公共"
-        },
-        {
-            "epgid": "河北农民频道",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北农民频道.png",
-            "name": "河北农民频道,河北农民"
-        },
-        {
-            "epgid": "河北都市频道",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北都市频道.png",
-            "name": "河北都市频道,河北都市"
-        },
-        {
-            "epgid": "河北影视剧",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北影视剧.png",
-            "name": "河北影视剧"
-        },
-        {
-            "epgid": "河北少儿科教",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北少儿科教.png",
-            "name": "河北少儿科教,河北少儿,河北科教"
-        },
-        {
-            "epgid": "河北杂技",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北杂技.png",
-            "name": "河北杂技"
-        },
-        {
-            "epgid": "河北三农",
-            "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/河北三农.png",
-            "name": "河北三农,河北三农频道"
-        },
-        {
             "epgid": "山东卫视",
             "logo": "https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/TV-LOGO/refs/heads/main/%E5%85%A8%E9%83%A8%E5%8F%B0%E6%A0%87/山东卫视.png",
             "name": "山东卫视"
